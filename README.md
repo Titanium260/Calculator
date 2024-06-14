@@ -1,1 +1,1 @@
-This is literally first working piece of code i made in rust.
+This is literally the first working piece of code i made in rust.
